@@ -9,7 +9,6 @@
 
   <img src="https://streak-stats.demolab.com?user=Frank18ci&theme=dracula&hide_border=false" height="160" alt="streak graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank18ci&layout=compact&theme=dracula&langs_count=10" height="150" alt="languages graph" />
 </div>
 
 ###
