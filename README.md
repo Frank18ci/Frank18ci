@@ -3,7 +3,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Frank18ci&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
+   <img src="https://github-readme-stats-gray-mu-95.vercel.app/api?username=Frank18ci&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-gray-mu-95.vercel.app/api/top-langs?username=Frank18ci&layout=compact&theme=dracula&count_private=true" height="160" alt="languages graph" />
+
+  <img src="https://streak-stats.demolab.com?user=Frank18ci&theme=dracula&hide_border=false" height="160" alt="streak graph" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank18ci&layout=compact&theme=dracula&langs_count=10" height="150" alt="languages graph" />
 </div>
 
