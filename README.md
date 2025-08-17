@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Frank18ci&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank18ci&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank18ci&layout=compact&theme=dracula&langs_count=10" height="150" alt="languages graph" />
 </div>
 
 ###
